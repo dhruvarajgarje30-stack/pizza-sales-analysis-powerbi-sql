@@ -21,10 +21,14 @@ The goal was to transform raw sales data into an **interactive Power BI dashboar
 * Contains **48,000+ transaction-level records**
 * Includes:
 
+  * Pizza ID
   * Order ID
-  * Date & Time
-  * Pizza Category & Size
+  * Pizza name
   * Quantity
+  * Order_Date & Order_Time
+  * unit_price & total_price
+  * Pizza Category & Size
+  * pizza ingredients
   * Revenue
 
 ---
@@ -61,7 +65,7 @@ The goal was to transform raw sales data into an **interactive Power BI dashboar
 (Add your dashboard screenshots here)
 
 Example:
-![Dashboard Screenshot](images/dashboard1.png)
+
 
 ---
 
