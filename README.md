@@ -58,15 +58,15 @@ The objective was to transform raw data into an **interactive Power BI dashboard
 
 Calculated key business metrics such as total revenue, total orders, average order value, and average pizzas per order.
 
-![KPI Queries](images/KPI QUERIES.png)
+![KPI Queries](images/kpi_queries.png)
 
 ---
 
-### Daily Trend Analysis
+### Monthly Trend Analysis
 
-Analyzed order volume across days of the week to identify peak demand periods.
+Analyzed order volume across months to identify peak demand periods.
 
-![Daily Trend](images/MONTHLY TREND ANALYSIS.png)
+![Monthly Trend](images/monthly_trend_analysis.png)
 
 ---
 
