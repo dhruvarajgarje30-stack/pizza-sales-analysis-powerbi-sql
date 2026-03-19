@@ -42,7 +42,7 @@ The objective was to transform raw data into an **interactive Power BI dashboard
 
 ### Sales Overview
 
-[![Dashboard](images/dashboard1.png)](https://github.com/dhruvarajgarje30-stack/pizza-sales-analysis-powerbi-sql/blob/main/dashboard1.png)
+[![Dashboard](images/dashboard1.png)
 
 
 
@@ -58,7 +58,7 @@ The objective was to transform raw data into an **interactive Power BI dashboard
 
 Calculated key business metrics such as total revenue, total orders, average order value, and average pizzas per order.
 
-![KPI Queries]()
+![KPI Queries](images/KPI QUERIES.png)
 
 ---
 
@@ -66,7 +66,7 @@ Calculated key business metrics such as total revenue, total orders, average ord
 
 Analyzed order volume across days of the week to identify peak demand periods.
 
-![Daily Trend](images/sql_daily_trend.png)
+![Daily Trend](images/MONTHLY TREND ANALYSIS.png)
 
 ---
 
