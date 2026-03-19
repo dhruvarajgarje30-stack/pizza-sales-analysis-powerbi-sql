@@ -44,6 +44,7 @@ The objective was to transform raw data into an **interactive Power BI dashboard
 
 [![Dashboard](images/dashboard1.png)](https://github.com/dhruvarajgarje30-stack/pizza-sales-analysis-powerbi-sql/blob/main/dashboard1.png)
 
+[![Dashboard](images/dashboard1.png)](https://github.com/dhruvarajgarje30-stack/pizza-sales-analysis-powerbi-sql/blob/main/dashboard1.png)
 
 ### Product & Category Analysis
 
