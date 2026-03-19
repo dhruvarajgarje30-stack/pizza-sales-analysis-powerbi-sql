@@ -58,7 +58,7 @@ The objective was to transform raw data into an **interactive Power BI dashboard
 
 Calculated key business metrics such as total revenue, total orders, average order value, and average pizzas per order.
 
-![KPI Queries](images/sql_kpi_queries.png)
+![KPI Queries]()
 
 ---
 
