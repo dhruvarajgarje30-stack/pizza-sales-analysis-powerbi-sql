@@ -70,11 +70,11 @@ Analyzed order volume across months to identify peak demand periods.
 
 ---
 
-### Sales Contribution by Category
+### Sales Contribution by Pizza Size
 
-Evaluated how each pizza category contributes to total revenue.
+Evaluated how each pizza size contributes to total revenue.
 
-![Sales by Category](images/sql_sales_by_category.png)
+![Sales by size](images/sales_analysis_by_pizza_size.png)
 
 ---
 
@@ -82,7 +82,7 @@ Evaluated how each pizza category contributes to total revenue.
 
 Identified the highest revenue-generating pizza products.
 
-![Top 5 Best Sellers](images/sql_top5_revenue.png)
+![Top 5 Best Sellers](images/top5_by_revenue.png)
 
 ---
 
@@ -92,15 +92,6 @@ A concise report summarizing key findings and recommendations based on the analy
 
 [Download Report](business_insights_report.pdf)
 
----
-
-## 📂 Project Files
-
-* `pizza-sales-dashboard-powerbi.pbix`
-* `pizza_sales_analysis.sql`
-* `pizza_sales_dataset.xlsx`
-* `business_insights_report.pdf`
-* `images/` (dashboard & SQL screenshots)
 
 ---
 
